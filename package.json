@@ -1,0 +1,15 @@
+{
+  "name": "bb5cfdf2",
+  "version": "1.0.0",
+  "description": "A test project for Clauge file explorer features",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest",
+    "lint": "eslint src/"
+  },
+  "keywords": ["test", "clauge"],
+  "author": "Soumya",
+  "license": "MIT"
+}
