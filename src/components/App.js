@@ -28,4 +28,17 @@ function App() {
   );
 }
 
+function App2() {
+  return (
+    <div className="app">
+      <Header title="Clauge Test App" />
+      <main>
+        <h2>Welcome</h2>
+        <p>This is a test application for exploring Clauge features.</p>
+      </main>
+      <Footer />
+    </div>
+  );
+}
+
 export default App;
